@@ -29,5 +29,15 @@ namespace SnakeGame
             Parts.Add(new SnakePart(10, 0));
         }
 
+        public void RedrawSnake()
+        {
+            Grid.SetColumn(Head.Rect, Head.X);
+            Grid.SetRow(Head.Rect, Head.Y);
+            foreach (SnakePart snakePart in Parts)
+            {
+                Grid.SetColumn(snakePart.Rect, snakePart.X);
+                Grid.SetRow(snakePart.Rect, snakePart.Y);
+            }
+        }
     }
 }
