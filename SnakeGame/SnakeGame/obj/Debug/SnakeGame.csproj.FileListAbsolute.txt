@@ -1,3 +1,0 @@
-c:\users\magdalena\documents\visual studio 2015\Projects\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
-C:\Users\Magdalena\Documents\Snake\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
-C:\Users\Magdalena\Desktop\Snake111\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
