@@ -46,6 +46,7 @@
     <Compile Include="MySnake.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SnakePart.cs" />
+    <Compile Include="Wall.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
